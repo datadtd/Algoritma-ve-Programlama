@@ -23,6 +23,6 @@ public class ucgenturleri {
 			}
 		}
 	}
-//26010310079_TuğbaTeker
+
 
 
