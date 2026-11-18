@@ -38,7 +38,6 @@ public class hesapmakinesi {
 		}
 	 }
 	}
-//26010310079_TuğbaTeker
 	
 
 
