@@ -25,7 +25,7 @@ public class sayınotunuharfnotunaçevirme {
 		}	
 		}	
 		}
-		//26010310079_TuğbaTeker
+		
 		
 		
 	
