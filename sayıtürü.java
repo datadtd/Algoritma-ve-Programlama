@@ -21,7 +21,7 @@ public class sayıtürü {
 	
 	}
 	}
-//26010310079_TuğbaTeker
+
 
 	
 	
