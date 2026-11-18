@@ -19,7 +19,7 @@ public class karaktertürü {
 }
 	}
 }
-//26010310079_TuğbaTeker
+
 		
 		
 		
